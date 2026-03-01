@@ -37,8 +37,7 @@ This project is licensed under the **CC BY-NC-SA 4.0** License.
 
 ## 📩 Contact
 
-- 📧 Email: `contact@nones.io` *(example)*
-- 🌐 Website: `https://nones.io` *(example)*
+- 📧 phone: '010-8430-3417'
 
 
 
