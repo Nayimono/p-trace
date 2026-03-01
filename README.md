@@ -1,2 +1,49 @@
+
 # p-trace
-보안포탈 > 자산관리 Trace 제품
+
+## 🌏 Open Source & Transparency
+
+nones는 **소스를 공개함으로써 투명한 기술 기록을 남기고**,  
+국내 보안·운영 기술의 흐름을 공유하고자 합니다.
+
+이 저장소는 다음 목적을 위해 공개됩니다.
+
+- 기술 구현 방식의 **투명성 확보**
+- 국내 보안/운영 자동화 기술 흐름 공유
+- 재현 가능하고 검증 가능한 아키텍처 제공
+
+> ⚠️ 본 저장소의 공개는 **상업적 이용을 허용하기 위함이 아닙니다.**
+
+
+
+## 📄 License
+
+This project is licensed under the **CC BY-NC-SA 4.0** License.
+
+### 라이선스 요약
+- ❌ **상업적 사용 금지 (Non-Commercial)**
+- ❌ **무단 재배포 금지**
+- ✅ 개인 학습, 연구, 내부 검토 목적 사용 가능
+- ✅ 출처 명시 필수
+- 🔁 수정 및 공유 시 **동일 라이선스 유지(SA)**
+
+자세한 내용은 아래를 참고하세요.  
+👉 https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+> 상업적 사용, 서비스 적용, 재배포가 필요한 경우  
+> 반드시 사전 협의가 필요합니다.
+
+
+
+## 📩 Contact
+
+- 📧 Email: `contact@nones.io` *(example)*
+- 🌐 Website: `https://nones.io` *(example)*
+
+
+
+## 🏗️ Mission
+
+> **보안 운영에서 사람을 제거한다.**  
+> 자동화와 투명성을 통해  
+> 더 안전하고 단순한 시스템을 만든다.
